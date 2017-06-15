@@ -1,0 +1,20 @@
+MariaDB [akent13]> source Lab2_insert.sql;
+Query OK, 12 rows affected (0.02 sec)
+Records: 12  Duplicates: 0  Warnings: 0
+
+Query OK, 15 rows affected (0.10 sec)
+Records: 15  Duplicates: 0  Warnings: 0
+
+Query OK, 16 rows affected (0.04 sec)
+Records: 16  Duplicates: 0  Warnings: 0
+
+Query OK, 16 rows affected (0.09 sec)
+Records: 16  Duplicates: 0  Warnings: 0
+
+Query OK, 136 rows affected (0.09 sec)
+Records: 136  Duplicates: 0  Warnings: 0
+
+Query OK, 44 rows affected (0.09 sec)
+Records: 44  Duplicates: 0  Warnings: 0
+
+MariaDB [akent13]> notee

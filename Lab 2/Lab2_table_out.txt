@@ -1,0 +1,14 @@
+MariaDB [akent13]> source Lab2_createTables.sql;
+Query OK, 0 rows affected (0.25 sec)
+
+Query OK, 0 rows affected (0.25 sec)
+
+Query OK, 0 rows affected (0.31 sec)
+
+Query OK, 0 rows affected (0.21 sec)
+
+Query OK, 0 rows affected (0.24 sec)
+
+Query OK, 0 rows affected (0.26 sec)
+
+MariaDB [akent13]> notee
